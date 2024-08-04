@@ -1,0 +1,549 @@
+												/*The Legacy*/
+#logo {
+	width:300px;
+	height:300px;
+	margin:auto;
+	border-radius:300px;
+	background-image: url(Legacy.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    box-shadow: 2px 0px 10px #424242;
+} 
+#legacy ul {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width:100%;
+} 
+#legacy ul li{
+	text-align: center;
+	width:50%;
+	display:inline-block;
+	padding:20px;
+	font-size:100%;
+	font-weight:bold;
+	background-color: #FF5396;
+	color:#230072;
+	margin:20px;
+	border-radius:20px;
+} 
+.main p {
+	padding:30px 10px;
+	font-size:200%;
+	font-weight:bold;
+	background: linear-gradient(to top, #4E44FF, #9500FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sector {
+	width:90%;
+	padding: 50px 20px;
+	background-color: rgba(191, 255, 231, 0.3);
+	border-radius:30px;
+	margin:50px auto;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+} 
+.slogo {
+	width:200px!important;
+	height:200px;
+	margin-bottom:10px;
+	padding:0px!important;
+	border-radius:100px;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    box-shadow: 2px 0px 10px #424242;
+} 
+#darkmoon { background-image: url(Darkmoon.png); }
+#starland { background-image: url(Starland.png); }
+#blueplanet { background-image: url(Blueplanet.png); }
+.sector div {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width:100%;
+} 
+.sector h3 {
+	padding-bottom:30px;
+	font-size:150%;
+	background: linear-gradient(to right, #FF006F, #4D00FF);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+} 
+.sector p {
+	text-align: center;
+	font-size:100%;
+	width:80%;
+	color:red;
+	padding:20px;
+	margin: 5px 0px; 
+	border:2px solid red;
+	border-radius:20px;
+} 
+.sector b {
+	color: #5100A4;
+	margin-top:30px;
+} 
+.admins {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+	width:90%;
+	margin:20px auto;
+	padding:10px;
+	border-radius:20px;
+	background-color: rgba(255, 192, 203, 0.3);
+} 
+.name {
+	width:90%;
+	padding:10px 20px;
+	margin:10px 0px;
+	border-radius:20px;
+	border:2px solid red;
+	display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+} 
+.pic {
+	width:100px;
+	height:100px;
+	background-color: #F3DBFF;
+	border-radius:50px;
+	box-shadow: 2px 0px 5px #424242;
+} 
+.ok {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+} 
+b {
+	font-size:20px;
+	color:red;
+	margin:10px;
+} 
+#Queen {
+	background-image: url(Queen.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    transform: rotate(45deg)
+} 
+#star {
+	background-image: url(Shiva.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+} 
+
+
+											/*About me*/
+.Shiva {
+	width:300px;
+	height:300px;
+	margin:auto;
+	border-radius:300px;
+	background-color: pink;
+	background-image: url(Shiva.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    box-shadow: 2px 0px 10px #424242;
+} 
+.bio {
+	padding: 20px;
+	border-radius:20px;
+	margin:20px auto;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+} 
+.bio strong {
+	padding:10px;
+	font-size:100%;
+	color:#6800FF;
+} 
+.bio b {
+	font-size:130%;
+	color:red;
+} 
+.om {
+	font-size:30px!important;
+} 
+#about h4 {
+	font-size:3em;
+	color:#430079;
+} 
+.me {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    width:90%;
+    padding:20px;
+    border-radius:20px;
+    background-color: pink;
+    margin: 50px auto;
+} 
+.me p {
+	font-size:1em;
+	padding:10px;
+} 
+.me div{
+	width:80%;
+	margin:20px 10px;
+	aspect-ratio: 16 / 9;
+	border-radius:20px;
+	box-shadow:2px 2px 10px black;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+} 
+#child { background-image: url(R1.jpg); }
+#fear { background-image: url(R2.jpg); }
+#personality { background-image: url(R3.jpg); }
+#type { background-image: url(R4.jpg); }
+#character { background-image: url(R5.jpg); }
+
+
+												/*Our Story*/
+.board {
+	width:100%;
+	background-color: rgba(255,255,255,0.2);
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    border-radius:20px;
+    padding:20px 0px;
+    margin:20px 0px 50px 0px;
+} 
+.story {
+	width:90%;
+	aspect-ratio:16/9;
+	border-radius:20px;
+	margin: 10px auto;
+	background-color: white;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    box-shadow:1px 1px 5px #424242;
+} 
+.board p {
+	font-size:1em;
+	display: inline-block;
+	margin:0;
+	padding:10px 30px;
+	text-align: center;
+} 
+#s1 {
+	background-image: url(S1.jpeg);
+	background-position: center -10px; 
+} 
+#s2 {
+	background-image: url(S2.gif);
+	background-size: 80%;
+}
+#s3 {
+	background-image: url(S3.jpeg);
+}
+#s4 {
+	background-image: url(S4.jpeg);
+	background-position: center -20px; 
+} 
+#s5 {
+	background-image: url(S5.jpeg);
+	background-position: center 0px; 
+} 
+#s6 {
+	background-image: url(S6.jpeg);
+	background-position: center 0px; 
+}
+#s7 {
+	background-image: url(S7.jpg);
+	background-position: center -30px; 
+}
+#s8 {
+	background-image: url(S8.jpg);
+	background-position: center -30px; 
+}
+#s9 {
+	background-image: url(S9.jpg);
+}
+#s10 {
+	background-image: url(S10.jpg);
+}
+#s11 {
+	background-image: url(S11.jpg);
+}
+#s12 {
+	background-image: url(S12.jpg);
+	background-position: center -50px; 
+}
+#s13 {
+	background-image: url(S13.jpg);
+	background-position: center 0px; 
+}
+#s14 {
+	background-image: url(S14.jpg);
+	background-position: -50px -100px; 
+	background-size: 200%;
+}
+#s15 {
+	background-image: url(S14.jpg);
+	background-position: -300px -60px; 
+	background-size: 200%;
+}
+#s16 {
+	background-image: url(S15.jpg);
+}
+#s17 {
+	background-image: url(S16.jpg);
+	background-position: center 0px; 
+}
+.kidding {
+	width:100%;
+	margin:0px;
+	padding:30px;
+	margin: 100px auto;
+	text-align: center;
+}
+.kidding b{
+	padding:20px 50px;
+	background-color: #220056;
+	color:#00FF78;
+	border-radius:20px;
+	border:2px solid aqua;
+	font-size:2em;
+} 
+
+
+												/*Incidents*/
+.incident {
+	border:3px solid red;
+	border-radius:20px;
+	background-color: rgba(200,0,0,0.3);
+	padding:20px;
+	margin: 0px auto;
+}
+.incident h4 {
+	font-size:2em;
+	color:#9FFF91;
+	background-color: rgba(255,255,255,0.2);
+	padding:10px 30px;
+	border-radius:20px;
+	text-align: center;
+	margin:auto;
+	display:inline-block;
+} 
+.incident b {
+	font-size:1em;
+	color:white;
+	display:block;
+} 
+.divide {
+	width:200px;
+	aspect-ratio:1/1.5;
+	margin:0px auto;
+} 
+.divide div {
+	width:5px;
+	height:100%;
+	background-color: #9700FF;
+	position: relative;
+	left:50%;
+}
+.divide b {
+	position: relative;
+	bottom:55%;
+	left:14%;
+	background-color: red;
+	padding:10px 30px;
+	border-radius:20px;
+	color: #F4FFDB;
+} 
+
+
+										/*Proposal*/
+#propose {
+	width:100%;
+	aspect-ratio:9/16;
+	background-color: pink;
+	border-radius:20px;
+	background-image: url(P1.png);
+    background-repeat: no-repeat;
+    background-position: -200px center; 
+    background-size: cover;
+}
+.ask {
+	width:100%;
+	aspect-ratio:1/1;
+	overflow: hidden;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+} 
+.ask h2 {
+	text-align: center;
+	font-size:500%;
+	opacity:0;
+	margin:50px 0px;
+	position: absolute;
+	animation: fade 25s forwards infinite;
+} 
+.ask h2 b {
+	font-size:0.5em;
+	display:block;
+}
+.clear {
+	width:100%;
+	padding:20px;
+	margin:50px 0px;
+	background-color: #E59FFF;
+	border-radius:20px;
+	box-shadow:1px 1px 5px rgba(0,0,0,0.3);
+} 
+.clear h3, .alert h3 {
+	text-align: center;
+	font-size:2em;
+	color: red;
+	margin:10px 0px 30px 0px;
+	display: inline-block;
+	animation: pop 10s linear infinite;
+}
+.emoji {
+	display: flex;
+    align-items: center;
+    justify-content: center; 
+} 
+.emoji span {
+	width:10px;
+	height:10px;
+	border-radius:20px;
+	background-color: red;
+	margin:20px;
+} 
+.written {
+	margin:10px 0px;
+	padding:20px;
+	border-radius:20px;
+	background-color: rgba(255,255,255,0.1);
+}
+.written p {
+	font-size:1em;
+	padding:0px;
+	margin:0px;
+} 
+.alert {
+	width:100%;
+	padding:20px;
+	margin:300px 0px 50px 0px;
+	border:3px solid red;
+	border-radius:20px;
+	background-color: rgba(255,0,0,0.1);
+}
+.alert h4 {
+	text-align: center;
+	font-size:2em;
+	color: red;
+	margin:30px 0px 10px 0px;
+} 
+.alert b {
+	font-size:1em;
+	color: purple;
+	border:2px solid #FF2270;
+	border-radius:20px;
+	margin:0px 0px;
+	padding:20px;
+	display:block;
+}
+
+
+													/*Video*/
+#video h2 {
+	font-size:2em;
+	margin:30px 10px;
+}
+.index {
+	text-align: center;
+	background-color: rgba(255,255,255,0.2);
+	padding:10px;
+	border-radius:20px;
+	width:100%;
+	margin: 20px auto;
+} 
+iframe {
+	width:100%;
+	aspect-ratio:16/9;
+	background-color: pink;
+	border-radius:20px;
+	margin:20px auto;
+	box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+} 
+.index ul {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+} 
+.index ul li {
+	min-width:40%;
+	font-size:1em;
+	margin:5px;
+	padding:20px;
+	background-color: rgba(128, 0, 128, 0.1);
+	border:2px solid rgba(128, 0, 128, 0.1);
+	border-radius:20px;
+	color: purple;
+	font-weight:bold;
+	box-shadow:2px 2px 5px rgba(0,0,0,0.1);
+}
+.index p {
+	font-size:1em;
+	padding:20px;
+}
+.account {
+	display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    padding:20px;
+    margin:30px 0px;
+    border:2px solid purple;
+    border-radius:20px;
+    background-color: rgba(128, 0, 128, 0.1);
+}
+.the {
+	width:100px;
+	aspect-ratio:1/1;
+	border-radius:50px;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+	box-shadow:1px 1px 2px black;
+} 
+#moons { background-image: url(Darkmoon.png); }
+#stars { background-image: url(Starland.png); }
+#planets { background-image: url(Blueplanet.png); }
+
+.follow {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+.follow b {
+	background-color: rgba(255,255,255,0.2);
+	box-shadow:2px 2px 3px rgba(0,0,0,0.1);
+	padding:10px 50px;
+	border-radius:20px;
+	color: purple;
+} 
